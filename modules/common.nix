@@ -17,6 +17,7 @@
     ripgrep        
     fd             
     unzip          
+    tree-sitter
     wl-clipboard   
   ];
    
