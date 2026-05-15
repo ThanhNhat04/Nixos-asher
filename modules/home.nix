@@ -44,6 +44,7 @@
     };
 
     shellAliases = {
+      v = "nvim";
       ll = "ls -la";
       update = "sudo nixos-rebuild switch --flake ~/.dotfiles#wsl";
     };
