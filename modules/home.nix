@@ -46,6 +46,8 @@
     shellAliases = {
       v = "nvim";
       ll = "ls -la";
+      c = "clear";
+      x = "exit";
       update = "sudo nixos-rebuild switch --flake ~/.dotfiles#wsl";
     };
     oh-my-zsh = {
