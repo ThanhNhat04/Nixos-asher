@@ -9,7 +9,6 @@
   services.openssh = {
     enable = true;
     settings.PermitRootLogin = "yes";
-  };
-
+  }; 
   system.stateVersion = "25.11";
 }
